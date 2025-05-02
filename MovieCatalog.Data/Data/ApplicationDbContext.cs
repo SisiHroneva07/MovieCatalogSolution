@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using MovieCatalog.Data.Models;
+using MovieCatalog.Models;
 
 
 namespace MovieCatalog.Data
